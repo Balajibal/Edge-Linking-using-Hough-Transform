@@ -94,28 +94,13 @@ plt.show()
 ![Screenshot (169)](https://user-images.githubusercontent.com/75234946/169675944-721625ec-67bb-45de-a2e4-767376845e1f.png)
 
 
-<br>
-<br>
-<br>
-<br>
-
 ### Canny Edge detector output
 ![Screenshot (171)](https://user-images.githubusercontent.com/75234946/169676008-81509b33-e58b-442f-bebc-12e99d85c6ad.png)
-
-<br>
-<br>
-<br>
-<br>
 
 
 ### Display the result of Hough transform
 
 ![Screenshot (173)](https://user-images.githubusercontent.com/75234946/169676032-b1dcdef6-0f99-4f5c-8a78-9eedfc086b87.png)
-
-<br>
-<br>
-<br>
-<br>
 
 
 
