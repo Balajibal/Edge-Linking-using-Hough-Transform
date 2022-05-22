@@ -106,8 +106,8 @@ plt.show()
 <br>
 <br>
 <br>
-
-
+<br>
+<br>
 ### Display the result of Hough transform
 ![Screenshot (173)](https://user-images.githubusercontent.com/75234946/169676032-b1dcdef6-0f99-4f5c-8a78-9eedfc086b87.png)
 
